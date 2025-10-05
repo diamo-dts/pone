@@ -1,4 +1,5 @@
 {
   "apps": ["com.bouazza.diamo"],
-  "version": 72510
+  "version": 72510,
+  "api": "http://localhost:1212"
 }
